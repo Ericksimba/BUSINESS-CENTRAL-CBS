@@ -42,6 +42,10 @@ table 50106 ListenershipEntry
             DataClassification = ToBeClassified;
             OptionMembers = "1-10","13-18","19-34","35-50","50+";
         }
+        field(90; MyName; code[30])
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys

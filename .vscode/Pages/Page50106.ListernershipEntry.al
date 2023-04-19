@@ -48,6 +48,11 @@ page 50106 ListenershipEntry
                 {
                     ApplicationArea = All;
                 }
+                field(MyName; Rec."MyName")
+                {
+                    ApplicationArea = All;
+                }
+                
 
 
             }
